@@ -5,5 +5,4 @@
 
 **Why this repository?**
 
-This repository consists of solutions to all my Natural Language Processing projects. It includes pipelines for the end-to-end Datascience project along with deployment to Heroku, Azure, AWS and Google Cloud platforms.
-• Datasets are provided in each of the folders above, and the solutions to the problem statements as well.
+This repository consists of solutions to all my Natural Language Processing projects. It includes pipelines for the end-to-end Datascience project along with deployment to Heroku, Azure, AWS and Google Cloud platforms. Datasets are provided in each of the folders above, and the solutions to the problem statements as well.
